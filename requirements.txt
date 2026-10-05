@@ -1,0 +1,13 @@
+flask
+flask-cors
+mysql-connector-python
+python-dotenv
+bcrypt
+pandas
+numpy
+scikit-learn
+streamlit
+requests
+plotly
+openpyxl
+streamlit-lottie

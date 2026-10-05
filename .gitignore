@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets and environment config — never commit real credentials
+.env
+.streamlit/secrets.toml
+
+# Local database dumps, if any are ever exported here
+*.sql.bak
+*.db
+*.sqlite3
